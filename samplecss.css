@@ -1,0 +1,12 @@
+h2{
+    color:red
+}
+.button{
+    color: white;
+    background-color: blue;
+}
+.button:hover{
+    cursor: all-scroll;
+    color: white;
+    background-color: lightblue;
+}

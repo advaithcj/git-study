@@ -1,0 +1,28 @@
+.marg1{
+
+    margin: 20px;
+    background-color: green;
+    color: white;
+    width: 800px;
+    height: 200px;
+    padding: 5px;
+    border: 5px solid red;
+}
+.marg2{
+    margin: 20px;
+    background-color: green;
+    color: white;
+    width: 800px;
+    height: 200px;
+    padding: 20px;
+    border: 5px solid red;
+}
+.marg3{
+    margin: 20px;
+    background-color: green;
+    color: white;
+    width: 800px;
+    height: 200px;
+    padding: 20px;
+    border: 5px solid red;
+}
